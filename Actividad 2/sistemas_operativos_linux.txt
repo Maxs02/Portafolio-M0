@@ -1,0 +1,4 @@
+¿Què es Linux? es un sistema operativo libre de còdigo abierto, resultado de la fusiòn del proyecto GNU, encabezado por Richard Stallman, y del kernel Linux, desarrollado por Linus Torvalds. 
+¿Què son las distribuciones de Linux? se le llama asì al conjunto de softwares basados en el kernel Linux. Estos incluyen determinados paquetes de software libre, enfocados a satisfacer ciertas necesidades de los usuarios.  
+¿Cuàles son las distribuciones de Linux? Existen mùltiples distribuciones de Linux, algunas de las màs conocidas son Debian, Ubuntu y Manjaro. 
+Caracterìsticas de Ubuntu. Es una distribuciòn de Linux basada en Debian, y està orientada al usuario promedio, enfocado a la facilidad de uso y mejorar la experiencia de usuario. 

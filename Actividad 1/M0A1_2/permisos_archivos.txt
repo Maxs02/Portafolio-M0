@@ -1,0 +1,5 @@
+Los archivos cuentan con 3 niveles de permisos: lectura, escritura y ejecuciòn; estos permisos se pueden modificar para 3 tipos de usuarios: propietario, grupos y otros. 
+En la sintaxis de los permisos, los archivos se identifican con el signo "-" seguido de sus respectivos permisos para el propietario "u", grupos "g" y otros "o". 
+Este archivo "permisos_archivos.txt" cuenta con los siguientes permisos: "-rw-r--r--" lo cual significa:
+El propietario tiene permisos de lectura y escritura.
+El resto de usuarios, grupos y otros, tienen sòlo permiso de lectura.

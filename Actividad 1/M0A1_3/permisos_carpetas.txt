@@ -1,0 +1,4 @@
+En la sintaxis de los permisos, las carpetas se identifican con la letra "d" seguida de las respectivas letras para representar los permisos para el propietario "u", grupos "g" y otros "o". 
+Las carpetas contenidas en "actividad_1" cuentan con los siguientes permisos: "drwxr-xr-x" lo cual significa:
+El propietario tiene permisos de lectura, escritura y ejecuciòn.
+Los grupos y otros solo cuentan con permisos de lectura y ejecuciòn.
